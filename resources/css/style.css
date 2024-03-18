@@ -27,7 +27,7 @@ body{
 }
 
 
-/* HEADINGS */
+/* LINKS */
 
 .link--cta{
     font-size: 16px;
@@ -35,3 +35,10 @@ body{
 }
 
 
+/* FOOTER */
+
+.footer--cpr{
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
